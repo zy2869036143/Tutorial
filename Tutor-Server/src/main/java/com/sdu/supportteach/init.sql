@@ -39,5 +39,5 @@ CREATE TABLE `suptea`.`users` (
 
 
 
-INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('1', 'passwordis111111', 'MyName', '男', 'e10adc3949ba59abbe56e057f20f883e', '0');
+INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('1', 'passwordis123456', 'MyName', '男', 'e10adc3949ba59abbe56e057f20f883e', '0');
 
