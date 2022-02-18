@@ -39,12 +39,5 @@ CREATE TABLE `suptea`.`users` (
 
 
 
-INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('1', '202000300021', '李泽宇', '男', 'e10adc3949ba59abbe56e057f20f883e', '0');
-INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('2', '202000300089', '孙茹玉', '女', 'e10adc3949ba59abbe56e057f20f883e', '0');
-INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('3', '202000111132', '秦绍杰', '男', 'e10adc3949ba59abbe56e057f20f883e', '0');
-INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('4', '202000150073', '徐文森', '男', 'e10adc3949ba59abbe56e057f20f883e', '0');
-INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('5', '202000150019', '温宇欣', '男', 'e10adc3949ba59abbe56e057f20f883e', '0');
-INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('6', '202000020157', '杨力权', '男', 'e10adc3949ba59abbe56e057f20f883e', '0');
-INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('7', '202022161223', '孙铭晨', '男', 'e10adc3949ba59abbe56e057f20f883e', '0');
-INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('8', '202000150012', '冯薪羽', '男', 'e10adc3949ba59abbe56e057f20f883e', '0');
-INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('9', '202000150240', '蔡千千', '男', 'e10adc3949ba59abbe56e057f20f883e', '0');
+INSERT INTO `users` (`id`, `account`, `name`, `gender`, `password`, `login_count`) VALUES ('1', 'passwordis111111', 'MyName', '男', 'e10adc3949ba59abbe56e057f20f883e', '0');
+
