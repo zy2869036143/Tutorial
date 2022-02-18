@@ -1,8 +1,7 @@
 import axios from "axios";
 import { store } from "@/store/createStore.js"
 
-var BASE_URL = "http://123.56.153.233:8080/api"
-// var BASE_URL = "http://localhost:8081/api"
+var BASE_URL = "http://localhost:9090/api"
 function userLoginReq(account, password){
     return axios.post(
         BASE_URL + "/login",
