@@ -1,0 +1,13 @@
+QPushButton{
+        background:qlineargradient(spread:pad, x1:0.460227, y1:0, x2:0.465818, y2:0.875, stop:0 rgba(170, 255, 255, 255), stop:1 rgba(255, 255, 255, 255));
+        border-radius:8px;
+        border:2px solid rgb(0, 170, 255)
+}
+ 
+QPushButton:hover{
+        background:qlineargradient(spread:pad, x1:0.460227, y1:0, x2:0.443091, y2:0.898, stop:0 rgba(0, 255, 255, 255), stop:1 rgba(255, 255, 255, 255))
+}
+ 
+QPushButton:hover:pressed{
+        background:qlineargradient(spread:pad, x1:0.460227, y1:0, x2:0.465818, y2:0.875, stop:0 rgba(170, 255, 255, 255), stop:1 rgba(255, 255, 255, 255));
+}
